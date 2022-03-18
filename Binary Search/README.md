@@ -2,4 +2,7 @@
 
 __build:__
 
-> g++ main.cpp -o main
+
+```
+$ g++ main.cpp -o main
+```
